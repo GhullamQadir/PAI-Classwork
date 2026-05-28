@@ -1,7 +1,6 @@
 Lab: Exception Handling in Python
 ================================
 
-Course: Programming for AI (2+0)
 Topic: Exception handling in Python
 
 Overview
